@@ -28,4 +28,4 @@ This is a code block, it uses 3 backticks instead of 1 backtick.
 
 [Link to another site.](http://anothersite.com)
 
-![Image of my editor](./images/Screenshot-markdown-in-atom.png)
+![Image of my editor](./Screenshot-markdown-in-atom.png)
